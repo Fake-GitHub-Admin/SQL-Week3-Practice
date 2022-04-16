@@ -7,3 +7,5 @@ Major Issue with my laptop trying to run SQL, meanwhile in a few more days I wil
 
 4/16: SQL is now running, for now I will just make updates to my webpage, get down all the SQL content basics, and figure out what project to work on next. 
 4/16 : End Date
+
+4/16: Update to Webpage as been provided, more to come for sure apologies for this week's setback, just need to clarify what I want to do while having the my webpage updated and learning other languages by the side to build different projects.
